@@ -10,6 +10,11 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+
+## Screenshots
+
+![income-app](https://github.com/melikealtin/add-income-vue/blob/master/Screenshot.png)
+
 ## Project Setup
 
 ```sh
